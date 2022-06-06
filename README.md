@@ -2,6 +2,7 @@
 
 ## chapter 1 day 1 quests
 
-'''hello
+'''cadance
+hello
 '''
 
